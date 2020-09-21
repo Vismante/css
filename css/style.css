@@ -1,0 +1,24 @@
+/*Teksto formatavimas*/
+article h1 {
+	font-style:initial;
+}
+article h2{
+	font-family:Arial,Tahoma,'Roboto',sans-serif;
+	font-size: 2em;
+	font-style: italic;
+	text-transform: uppercase;
+	text-align: right;/*left right justify*/
+}
+article h2 span{
+	font-family:'Roboto', sans-serif;
+	font-size: 1.2em
+	font-style:normal;
+	text-transform: uppercase;
+	text-align: justify;
+}
+
+article p span{
+	color:red;
+	font-weight: bold;
+	text-shadow: 4px
+}
